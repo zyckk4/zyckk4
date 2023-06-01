@@ -16,3 +16,5 @@ Here are some of my highlighted projects:
 One highlight in my coding journey was making a contribution to CPython, which, despite being a documentation typo fix, was an encouraging and significant milestone for me. This experience encouraged me and reinforced my passion for continuous skill improvement and contributing to open-source projects. My journey thus far has been exciting and fulfilling, and I look forward to the many projects and challenges ahead.
 
 Feel free to follow my work or reach out if you'd like to connect or collaborate. I'm always open to meeting new people in the tech community!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=zyckk4&show_icons=true)
