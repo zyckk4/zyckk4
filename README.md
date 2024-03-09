@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hello, I'm @zyckk4👋
-![GitHub User's stars](https://img.shields.io/github/stars/zyckk4?style=flat&color=ffff00)
 ![GitHub followers](https://img.shields.io/github/followers/zyckk4?style=flat)
-[![Profile Views](https://komarev.com/ghpvc/?username=zyckk4&color=green)](https://github.com/zyckk4)
+![GitHub User's stars](https://img.shields.io/github/stars/zyckk4?style=flat&color=ff9900)
+![Profile Views](https://komarev.com/ghpvc/?username=zyckk4&color=green&label=profile+views)
   
 </div>
 
